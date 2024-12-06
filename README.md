@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheensaleh :alien:
-- 👀 I like to work as an AI Engineer for LLMs and Computer Vision:raised_hands:
+- 👀 I like to work as an AI Engineer for LLMs and Computer Vision :raised_hands:
 - 🌱 I’m currently working as an AI Researcher on video understanding
 - 👀 I'm currently learning Cloud services on AWS :construction_worker:
 - 💞️ I’m looking to collaborate on open source projects :dart:
